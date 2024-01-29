@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -11,33 +12,46 @@
     position: relative;
 }
 
-.container{
+.containeralign-left{
     text-align: left;
     font-size: 25px;
     
 }
 .main2{
-    margin-top: 150px;
+    margin-top: 400px;
     display:flex ;
+    height: 550px;
+    margin-left: 70px;
     
     
 }
 .main2 img
 {
 
-    height: 430px;
-    
-    background-position: left;
+    height: 530px;
     border-radius: 50%;
    
 }
-.main2 container{
-    text-align: right;
+    .alignright{
+        padding: 100px 90px;
+        font-family: "Be Vietnam";
+        
+        
+        
+    }
+    .alignright p{
+        width: 80%;
+    }
+
+.alignright h3{
+    font-size: 14.4px;
+    font-weight: 400px;
+
     
-}
-/* .main2 container h3{
-    
-    color:  rgb(27, 201, 143);
+   
+
+
+
     
 
-} */
+}
