@@ -1,8 +1,9 @@
-body {
-    background-color: black;
+*{
+    padding: 0;
+    margin: 0;
 }
 .main{
-    background-image: url(background37.jpg);
+    background-image: url(/images/background37.jpg);
     background-position: center center;
     background-size: max(1250px, 100vw);
     background-repeat: no-repeat;
@@ -15,3 +16,28 @@ body {
     font-size: 25px;
     
 }
+.main2{
+    margin-top: 150px;
+    display:flex ;
+    
+    
+}
+.main2 img
+{
+
+    height: 430px;
+    
+    background-position: left;
+    border-radius: 50%;
+   
+}
+.main2 container{
+    text-align: right;
+    
+}
+/* .main2 container h3{
+    
+    color:  rgb(27, 201, 143);
+    
+
+} */
