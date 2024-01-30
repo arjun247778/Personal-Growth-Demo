@@ -61,13 +61,33 @@
     background-color: rgb(41, 88, 83);
     box-shadow: inset 0 0 0 85px white;
     font-size: 28px;
-}
-.form input[name="button"]{
-    background-color: rgb(120, 198, 153);
 
+    
+}
+
+
+.form input[name="button"]{
+    font-family: "Be vietnam";
+    background-color: rgb(120, 198, 153);
+    border-radius: 4px;
+    color: rgb(41, 88, 83);
+    margin: 20px;
+    
+
+
+}
+.form input[name="input"]{
+    font-family: "Be vietnam";
+    border-radius: 4px;
+    
+   
 }
 .form h5{
      font-family: "Cormorant Garamond";
      font-size: 48px;
 }
-
+.main3{
+    background-image: url(images/background16.jpg);
+    height: 400px;
+    background-position-y: 50px ;
+}
