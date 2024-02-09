@@ -145,3 +145,29 @@
     padding-left: 15%;
    
 }
+.main4{
+    height: 650px;
+    text-align: center;
+    color: rgb(41, 88, 83);
+
+}
+.main4 h3{
+    font-family: "Cormorant Garamond";
+    font-size: 48px;
+}
+.main4 h4{
+    color: #4b9b86;
+    font-family: 'Be Vietnam';
+    font-size: 14.4px;
+    font-weight: 400;
+}
+.main4 div{
+    padding-top: 5%;
+}
+.main4 video{
+    background-image: url(./images/background16.jpg);
+     height: 400px;
+     position: relative;
+
+
+}
