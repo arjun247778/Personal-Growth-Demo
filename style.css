@@ -88,13 +88,21 @@
 }
 .main3{
     
-    background-image: url(images/background16.jpg);
-    color: white;
-    background-size: 90%;
-    height: 450px;
+    background-color: rgba(75, 155, 134, 0.671);
+    height: 430px;
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
     font-size: 25px;
-    
+    color: white;
+    font-family: "Cormorant Garamond";   
+    display: flex; 
+}
+.main3 input{
+    cursor: pointer;
+    background-color: rgb(120, 198, 153);
+    border-radius: 3px;
+}
+.accordion button{
+    cursor: pointer;
 }
