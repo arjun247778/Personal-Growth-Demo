@@ -93,16 +93,47 @@
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
-    font-size: 25px;
+    font-size: 30px;
     color: white;
     font-family: "Cormorant Garamond";   
     display: flex; 
+   padding-top: 70px;
+   padding-left: 15px;
+   
+   
+    
+
 }
 .main3 input{
     cursor: pointer;
     background-color: rgb(120, 198, 153);
     border-radius: 3px;
 }
+.main3 p{
+    font-size: 17.4px;
+    font-family: 'Segoe UI';
+}
+.main3 h3{
+    font-size: 14.4px;
+    font-family: "Be vietnam";
+    
+}
+.main3 div{
+    width: 60vw;
+} 
 .accordion button{
-    cursor: pointer;
+   background-color: transparent;
+   color: white;
+   border: none;
+   border-bottom: solid 1px white;
+   width: 100%;
+   padding-right: 70%;
+   margin: 7px;
+}
+
+.accordion-body{
+    position: relative;
+    font-family: 'Segoe UI';
+    font-size: 17.7px;
+
 }
