@@ -98,7 +98,7 @@
     font-family: "Cormorant Garamond";   
     display: flex; 
    padding-top: 70px;
-   padding-left: 15px;
+   padding-left: 35px;
    
    
     
@@ -110,7 +110,7 @@
     border-radius: 3px;
 }
 .main3 p{
-    font-size: 17.4px;
+    font-size: 17.6px;
     font-family: 'Segoe UI';
 }
 .main3 h3{
@@ -126,14 +126,22 @@
    color: white;
    border: none;
    border-bottom: solid 1px white;
-   width: 100%;
-   padding-right: 70%;
+   width: 70%;
+   padding-right: 40%;
    margin: 7px;
 }
 
 .accordion-body{
-    position: relative;
+    
+    
     font-family: 'Segoe UI';
-    font-size: 17.7px;
+    font-size: 17.6px;
+    padding-right: 156px;
 
+
+}
+.accordion{
+    
+    padding-left: 15%;
+   
 }
