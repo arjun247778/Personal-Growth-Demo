@@ -218,3 +218,37 @@
 .mobi-mbri-play:before {
     content: "\e95c";
 }
+.main5{
+    padding-top: 40px;
+    background-color: #fafafa;
+    display: flex;
+    height: 500px;
+    
+}
+.main5 img{
+    width: 136%;
+    padding-top: 5%;
+    padding-left: 20%;
+}
+.story{
+    display: flex;
+    padding-left: 8%;
+    flex-direction: column;
+}
+.char{
+    display: flex;
+    flex-direction: row;
+}
+.char div{
+    padding: 40px;
+}
+.story p{
+    font-family: 'Be Vietnam';
+    font-size: 17.6px;
+    color: #999999;
+}
+.main5 h3{
+    font-family: "Cormorant Garamond";
+    font-size: 48px;
+    color: #4b9b86;
+}
