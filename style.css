@@ -296,9 +296,10 @@
     height: 680px;
     flex-direction: row;
     padding-top: 17%;
-    align-items: center;
+    padding-left: 4%;
+    /* align-items: center;
     text-align: center;
-    justify-content: center;
+    justify-content: center; */
 
 }
 .main7 .need{
@@ -308,11 +309,71 @@
 }
 .main7 .tags{
     width: 33%;
+    padding-left: 6%;
+    padding-top: 4%;
 
 }
 .main7 .form2{
+    padding: 2rem 3rem;
     display: flex;
     flex-direction: column;
-    width: 18%;
+    width: 26%;
     background-color: #f6f3ee;
+    color: #295853;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.need h6{
+    font-family: "Be Vietnam";
+    font-size: 14.4px;
+    color:#4B9B86;
+    letter-spacing: 3px;
+}
+.need h3{
+    font-family: "Cormorant Garamond";
+    font-size: 48px;
+    color: #295853;
+}
+.need p{
+    color:#999999;
+    font-family: "Segoe UI";
+    font-size: 20.6px;
+    font-weight: 300;
+}
+
+.main7 .tags li{
+    color:#999999;
+    font-family: "Segoe UI";
+    font-size: 21.6px;
+    font-weight: 300;
+}
+.form2 h6{
+    color: #4B9B86;
+    letter-spacing: 3.2px;
+    font-family: "Be Vietnam";
+    font-size: 14.4px;
+
+}
+.form2 h3{
+    font-family: "Cormorant Garamond";
+    font-size: 35.2px;
+}
+::placeholder{
+    color: #4B9B86;
+   
+}
+.main8{
+
+     height: 400px;
+    padding-top: 14%;
+    position: relative;
+    padding-left: 25%;
+    
+}
+.mian8 iframe{
+   width: 70%;
+   
 }
